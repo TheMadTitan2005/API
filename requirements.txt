@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+easyocr
+python-magic
+Pillow
+numpy
+pdf2image
+python-docx
+python-pptx
+PyMuPDF
